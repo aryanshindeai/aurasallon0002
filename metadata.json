@@ -1,0 +1,6 @@
+{
+  "name": "Aura The Salon - Luxury Experience",
+  "description": "The Billion-Dollar Luxury Salon Digital Experience in Chandrapur. Hair, Beauty, Spa & AI Style Consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
